@@ -6,28 +6,7 @@ test_s(){
 
 
 
-	#echo "LLLLLLLLLLL                                                                              RRRRRRRRRRRRRRRRR                                                                                    "
-	#echo "L:::::::::L                                                                              R::::::::::::::::R                                                                                   "
-	#echo "L:::::::::L                                                                              R::::::RRRRRR:::::R                                                                                  "
-	#echo "LL:::::::LL                                                                              RR:::::R     R:::::R                                                                                 "
-	#echo "  L:::::L                 aaaaaaaaaaaaa   zzzzzzzzzzzzzzzzzyyyyyyy           yyyyyyy       R::::R     R:::::R    eeeeeeeeeeee        cccccccccccccccc   ooooooooooo   nnnn  nnnnnnnn          "
-	#echo "  L:::::L                 a::::::::::::a  z:::::::::::::::z y:::::y         y:::::y        R::::R     R:::::R  ee::::::::::::ee    cc:::::::::::::::c oo:::::::::::oo n:::nn::::::::nn        "
-	#echo "  L:::::L                 aaaaaaaaa:::::a z::::::::::::::z   y:::::y       y:::::y         R::::RRRRRR:::::R  e::::::eeeee:::::ee c:::::::::::::::::co:::::::::::::::on::::::::::::::nn       "
-	#echo "  L:::::L                          a::::a zzzzzzzz::::::z     y:::::y     y:::::y          R:::::::::::::RR  e::::::e     e:::::ec:::::::cccccc:::::co:::::ooooo:::::onn:::::::::::::::n      "
-	#echo "  L:::::L                   aaaaaaa:::::a       z::::::z       y:::::y   y:::::y           R::::RRRRRR:::::R e:::::::eeeee::::::ec::::::c     ccccccco::::o     o::::o  n:::::nnnn:::::n      "
-	#echo "  L:::::L                 aa::::::::::::a      z::::::z         y:::::y y:::::y            R::::R     R:::::Re:::::::::::::::::e c:::::c             o::::o     o::::o  n::::n    n::::n      "
-	#echo "  L:::::L                a::::aaaa::::::a     z::::::z           y:::::y:::::y             R::::R     R:::::Re::::::eeeeeeeeeee  c:::::c             o::::o     o::::o  n::::n    n::::n      " 
-	#echo "  L:::::L         LLLLLLa::::a    a:::::a    z::::::z             y:::::::::y              R::::R     R:::::Re:::::::e           c::::::c     ccccccco::::o     o::::o  n::::n    n::::n      "
-	#echo "LL:::::::LLLLLLLLL:::::La::::a    a:::::a   z::::::zzzzzzzz        y:::::::y             RR:::::R     R:::::Re::::::::e          c:::::::cccccc:::::co:::::ooooo:::::o  n::::n    n::::n      "
-	#echo "L::::::::::::::::::::::La:::::aaaa::::::a  z::::::::::::::z         y:::::y              R::::::R     R:::::R e::::::::eeeeeeee   c:::::::::::::::::co:::::::::::::::o  n::::n    n::::n      "
-	#echo "L::::::::::::::::::::::L a::::::::::aa:::az:::::::::::::::z        y:::::y               R::::::R     R:::::R  ee:::::::::::::e    cc:::::::::::::::c oo:::::::::::oo   n::::n    n::::n      "
-	#echo "LLLLLLLLLLLLLLLLLLLLLLLL  aaaaaaaaaa  aaaazzzzzzzzzzzzzzzzz       y:::::y                RRRRRRRR     RRRRRRR    eeeeeeeeeeeeee      cccccccccccccccc   ooooooooooo     nnnnnn    nnnnnn      "
-	#echo "                                                                 y:::::y                                                                                                                      "
-	#echo "                                                                y:::::y                                                                                                                       "
-	#echo "                                                               y:::::y                                                                                                                        "
-	#echo "                                                             y:::::y                                                                                                                          "
-	#echo "                                                             yyyyyyy                                                                                                                          "
-	#echo "                                                                                                                                                                             Code by @SPY8OY  "
+	                                                                                                                                                               Code by @SPY8OY  "
 
 
 		figlet "Lazy Recon"
